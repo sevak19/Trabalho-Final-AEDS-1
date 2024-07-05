@@ -1,4 +1,3 @@
-# Trabalho Final AEDS 1
 # Sistema de Gerenciamento de Alunos e Professores
 
 Este projeto consiste em um sistema de gerenciamento de alunos e professores, desenvolvido como trabalho final para a disciplina de Algoritmos e Estrutura de Dados 1 (AEDS 1) na PUC MG. O sistema permite cadastrar, manipular e exibir informações sobre alunos e professores em um ambiente acadêmico.
